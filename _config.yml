@@ -24,9 +24,8 @@ url: "https://zkr984.github.io" # the base hostname & protocol for your site, e.
 #twitter_username: jekyllrb
 github_username:  zkr984
 disqus: 
-  timezone: America/California
   shortname: zkr984s-jekyll-site
-
+  timezone: America/California
 # Build settings
 markdown: kramdown
 theme: minima
