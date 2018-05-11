@@ -38,7 +38,7 @@ author: Christopher Zhang
                     
 While images are like this
 
-![name](/images/logo.png)
+![name](/images/name.png)
 Format: ![Alt Text](url)
 
 Links like this
