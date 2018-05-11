@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "second-post"
+title:  "IQ Test"
 date:   2018-04-30 13:30:49 -0700
 categories: uncategorized
 author: Christopher Zhang
