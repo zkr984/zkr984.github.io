@@ -6,9 +6,9 @@ categories: uncategorized
 author: Christopher Zhang
 ---
 
-#one hashtag = <h1>
-##two hashtags = <h2>
-######and 6 is <h6>
+#one hashtag = '<h1>'
+##two hashtags = '<h2>'
+######and 6 is '<h6>'
 
 *one asterisk in the beginning and another one in the end is italics*
 **two asterisks in the same format as the line above is bold**
