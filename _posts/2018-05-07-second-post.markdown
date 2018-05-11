@@ -8,5 +8,5 @@ author: Christopher Zhang
 
 click here to test your [iq]
 
-[iq]: https://static.shoplightspeed.com/shops/609909/files/005514726/worlds-smallest-magic-8-ball.jpg
+[iq]: http://random-name-picker.com/random-number-generator-1-10/
 
