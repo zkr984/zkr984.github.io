@@ -8,5 +8,5 @@ author: Christopher Zhang
 
 click here to test your [iq]
 
-[iq]: http://onemillionlols.com/
+[iq]: https://static.shoplightspeed.com/shops/609909/files/005514726/worlds-smallest-magic-8-ball.jpg
 
