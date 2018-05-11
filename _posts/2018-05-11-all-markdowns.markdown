@@ -6,23 +6,16 @@ categories: uncategorized
 author: Christopher Zhang
 ---
 
-#one hashtag = h1
-##two hashtags = h2
-######and 6 is h3
+# one hashtag = h1
+## two hashtags = h2
+###### and 6 is h3
 
 *one asterisk in the beginning and another one in the end is italics*
 **two asterisks in the same format as the line above is bold**
 
-*Unordered
-  *Lists
-    *Are
-     *Written
-       *With
-          *A
-           *Asterisk
-             *In
-                *The
-                  *Front
+* Unordered
+  * Lists have an asterisk in front
+ 
 
 1. While
   1. Ordered
