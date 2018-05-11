@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "all-markdowns
+title:  "all-markdowns"
 date:   2018-05-11 13:30:49 -0700
 categories: uncategorized
 author: Christopher Zhang
