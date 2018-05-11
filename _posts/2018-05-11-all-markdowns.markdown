@@ -29,10 +29,7 @@ author: Christopher Zhang
                   1. In
                     1. Front
                     
-While images are like this
 
-![name](/images/name.png)
-Format: ![Alt Text](url)
 
 Links like this
 
