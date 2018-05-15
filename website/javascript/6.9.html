@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+
+</head>
+
+<body>
+<h2>BMI Caculator</h2>
+<script type="text/javascript">
+var height = prompt("What is your height in inches?");
+var weight = prompt("What is your weight in pounds?");
+var height_to_meters = Number(height ) * 0.025;
+var weight_to_kg = Number(weight ) * 0.45;
+var squaring_height = height_to_meters * height_to_meters;
+var number_height = Number(height );
+var feet = Math.floor(number_height / 12);
+var inches = number_height - feet;
+var result = weight_to_kg / squaring_height;
+alert("Result is: " + result);
+document.write("Height: " + feet + "' " + inches + '" ' + "<br>");
+document.write("Weight: " + weight + "<br>");
+document.write("BMI: " + result + "<br>");
+</script>
+</body>
+</html>
