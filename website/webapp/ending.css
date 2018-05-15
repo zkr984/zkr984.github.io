@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url(images/gover.jpg);
+	background-size: 1960px 1050px;
+}
+
+#wrapper {
+	text-align: center;
+	color: white;
+}

@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+		font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		background-image: url(images/Background2.gif);
+		color:white;
+		font-size:20px;
+		text-align:left;
+		background-size: 1920px 1080px;
+}
+#title {
+			background-color:black;
+			text-align:center;
+}
+#startbutton {
+	text-align: center;
+	
+}
+	#wrapper {
+		width: 94%;
+		
+	}
