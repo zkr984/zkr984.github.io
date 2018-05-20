@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bad Jokes"
+title:  "Greatest Scientific Discoveries of all time"
 date:   2018-04-30 13:30:49 -0700
 categories: uncategorized
 author: Einstein, Newton, Galileo, Darwin, Aristotle, Edison, Hawking, and a bunch more smart ppl.
